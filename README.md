@@ -10,7 +10,7 @@
 Looks a bit lonely here. Come back later to see some shiny trophies
 
 ### Activities
-My activities on GitHub
+Here are my activities on GitHub\
 <a href="https://github-readme-stats.vercel.app/api?username=xFarish&theme=merko&show_icons=true&bg_color=0D1117&hide_border=true">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=xFarish&theme=merko&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>

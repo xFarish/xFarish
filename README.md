@@ -8,8 +8,8 @@
 
 ### Rewards
 1. [PPKomp 2021](https://www.ppkomp.com.my/2021-pertandingan.htm)
-  * Top 100
-  * Top 50
+    * Top 100
+    * Top 50
 
 ### Activities
 Here are my activities on GitHub\

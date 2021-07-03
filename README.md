@@ -7,7 +7,9 @@
 * I like languages such as JavaScript, Python, Rust, C++ and WASM (WebAssembly)
 
 ### Rewards
-1. Top 100 in [PPKomp 2021](https://www.ppkomp.com.my/2021-pertandingan.htm)
+1. [PPKomp 2021](https://www.ppkomp.com.my/2021-pertandingan.htm)
+  * Top 100
+  * Top 50
 
 ### Activities
 Here are my activities on GitHub\

@@ -6,7 +6,7 @@
 * I have a [portfolio](https://xfarish.github.io/Portfolio/)
 * I like languages such as JavaScript, Python, Rust, C++ and WASM (WebAssembly)
 
-### Rewards
+### Awards
 1. [PPKomp 2021](https://www.ppkomp.com.my/2021-pertandingan.htm)
     * Top 100
     * Top 50
